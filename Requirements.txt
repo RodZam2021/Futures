@@ -1,4 +1,0 @@
-anthropic
-yfinance
-requests
-python-dotenv
